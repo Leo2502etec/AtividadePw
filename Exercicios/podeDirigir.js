@@ -6,4 +6,5 @@ function podeDirigir(idade) {
     }
 }
 
-console.log(podeDirigir(75))
+console.log(podeDirigir(idade))
+
